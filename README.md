@@ -1,2 +1,2 @@
-# GUI Programming with Tkinter
- GUI Programming with Tkinter, By BPB Publications
+# Building Modern GUIs with Tkinter and Python
+ Building Modern GUIs with Tkinter and Python, By BPB Publications
