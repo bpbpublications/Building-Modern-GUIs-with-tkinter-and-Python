@@ -1,2 +1,2 @@
-# Building Modern GUIs with Tkinter and Python
- Building Modern GUIs with Tkinter and Python, By BPB Publications
+# Building Modern GUIs with tkinter and Python
+ Building Modern GUIs with tkinter and Python, By BPB Publications
