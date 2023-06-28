@@ -1,0 +1,15 @@
+from tkinter import *
+
+myroot = Tk()
+myroot.geometry('200x200')
+myb1 = Button(myroot, text = 'PYTHON', font = ('Calibri',12), relief = FLAT, bd = 4)
+myb1.pack()
+myb2 = Button(myroot, text = 'PYTHON', font = ('Calibri',12), relief = RAISED, bd = 4)
+myb2.pack()
+myb3 = Button(myroot, text = 'PYTHON', font = ('Calibri',12), relief = 'groove', bd = 4)
+myb3.pack()
+myb4 = Button(myroot, text = 'PYTHON', font = ('Calibri',12), relief = 'sunken', bd = 4)
+myb4.pack()
+myb5 = Button(myroot, text = 'PYTHON', font = ('Calibri',12), relief = RIDGE, bd = 4)
+myb5.pack()
+myroot.mainloop()
